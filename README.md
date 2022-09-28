@@ -1,4 +1,4 @@
-## Olá, me sou o Lucas✨
+## Olá, sou o Lucas✨
 
 <div align="center">
   <a href="https://github.com/lucasjorge02">
@@ -6,7 +6,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lucasjorge02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   
-  ## Aprendendo:
+  ## Me Especializando em:
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,5 +20,3 @@
 <div> 
   <a href = "mailto:lucas.barrosoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/lucasjorge02/lucasjorge02/blob/output/github-contribution-grid-snake.svg)
