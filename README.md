@@ -1,5 +1,9 @@
 ## Olá, sou o Lucas✨
 
+<div aling="center">
+<a href="https://media-exp1.licdn.com/dms/image/C4D16AQGReiF2_CGQkQ/profile-displaybackgroundimage-shrink_350_1400/0/1637610237411?e=1670457600&v=beta&t=KaXRw69fXVHT22pI9D3D83vfdcD34WVHiCbhFwgie2s"></a>
+</div>
+
 <div align="center">
   <a href="https://github.com/lucasjorge02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjorge02&layout=compact&langs_count=7&theme=radical"/>
