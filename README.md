@@ -3,7 +3,8 @@
 <div aling="center">
 <img src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png">
 </div>
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/lucasjorge02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjorge02&layout=compact&langs_count=7&theme=radical"/>
