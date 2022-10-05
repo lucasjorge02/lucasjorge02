@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas✨
 
 <div aling="center">
-<a href="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png">
+<img src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png">
 </div>
 
 <div align="center">
@@ -24,7 +24,8 @@
    [![Github](https://img.shields.io/github/followers/lucasjorge02?label=Follow&style=social)](https://github.com/lucasjorge02)
 
   <div> 
-  <a href = "mailto:lucas.barrosoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank">
+  <a href = "mailto:lucas.barrosoj@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank">
 </div>
   
   ![Snake animation](https://github.com/leobr1t0/leobr1t0/blob/output/github-contribution-grid-snake.svg)
