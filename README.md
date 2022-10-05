@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas✨
 
 <div aling="center">
-<a href="https://media-exp1.licdn.com/dms/image/C4D16AQGReiF2_CGQkQ/profile-displaybackgroundimage-shrink_350_1400/0/1637610237411?e=1670457600&v=beta&t=KaXRw69fXVHT22pI9D3D83vfdcD34WVHiCbhFwgie2s"></a>
+<a href="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png"></a>
 </div>
 
 <div align="center">
