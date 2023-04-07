@@ -1,4 +1,4 @@
-## Olá, sou o Lucas✨
+## Olá caro visitante✨
 
 <div aling="center">
 <img src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png">
